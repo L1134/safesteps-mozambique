@@ -10,6 +10,10 @@
 
 ---
 
+<p align="center">
+  <img src="docs/app-screenshot.png" width="280" alt="SafeSteps app screenshot" />
+</p>
+
 ## 📌 Overview
 
 SafeSteps Mozambique is an **offline-first, multilingual mobile application** designed to teach children, families, and community members in northern Mozambique how to recognize, avoid, and respond to explosive hazards — including IEDs (Improvised Explosive Devices), ERW (Explosive Remnants of War), and UXO (Unexploded Ordnance).
