@@ -12,7 +12,7 @@
 
 <p align="center">
   <img src="docs/app-screenshot.png" width="280" alt="SafeSteps app screenshot" />
-</p>
+</p> 
 
 ## 📌 Overview
 
